@@ -1,6 +1,21 @@
 Welcome to the github repository for our analysis of the podcast ecosystem using SPoRC: the Structured Podcast Research Corpus! 
 
-You can access our data [here](https://huggingface.co/datasets/blitt/SPoRC), our data processing pipeline [here](https://github.com/blitt2018/SPoRC_data), and our publication [here](FILL_IN).
+You can access our data [here](https://huggingface.co/datasets/blitt/SPoRC), our data processing pipeline [here](https://github.com/blitt2018/SPoRC_data), and our publication [here](https://arxiv.org/abs/2411.07892).
+
+If you make use of our data analysis or processing pipeline, please cite: 
+
+```
+@misc{litterer2024mappingpodcastecosystemstructured,
+      title={Mapping the Podcast Ecosystem with the Structured Podcast Research Corpus}, 
+      author={Benjamin Litterer and David Jurgens and Dallas Card},
+      year={2024},
+      eprint={2411.07892},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.07892}, 
+}
+```
+
 
 Our paper analyzes podcasts from the perspective of content, structure, and responsiveness. In doing so we describe the quantity and diversity of podcast topics, the social network of guests who occur on multiple podcasts, and the temporal trend and magnitude of content related to George Floyd in May-June of 2020. 
 
